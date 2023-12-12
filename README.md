@@ -8,7 +8,7 @@ Binary search. Sorting algorithms (insertion, selection , mergesort, heapsort, q
 String matching algorithms,Enumeration algorithms,Optimization over sequences. 
 Empirical analysis of performance of algorithms."
 
-And the codes present on this rep develop the habilities aimed on this course,implementing the previously cited algorithms.
+The codes presented in this repository develop the abilities aimed at this course, implementing the previously cited algorithms.
 
 [MAC0122 - Principles of Algorithm Design](https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=MAC0122)
 
