@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Exercício Programa II – MAC 122 – PDA
-# Guilherme Augusto Martins
-# NUSP: 7199162
 
 #bibilotecas usadas
 import time as t
