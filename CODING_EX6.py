@@ -1,10 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""
-Nome: Guilherme Augusto Martins 
-NUSP: 7199162
-Exercícios 4
-"""
+
 import time as t
 
 #Algoritmo de contagem normal com deslocamento 1
