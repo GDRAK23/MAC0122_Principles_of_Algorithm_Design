@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Nome: Guilherme Augusto Martins 
-NUSP: 7199162
-Exercícios 1
-"""
 
 #Função que devolve o máximo divisor comum entre dois números
 def mdc(x,y):  
