@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Exercício Programa III – MAC 122 – PDA
-# Guilherme Augusto Martins
-# NUSP: 7199162
 
 #Função que trata as nomes
 def tratanome(string):
