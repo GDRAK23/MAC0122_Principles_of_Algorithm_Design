@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
 
 """
-Nome: Guilherme Augusto Martins 
-NUSP: 7199162
-Exercícios 2
-"""
-
-"""
 Mover n discos de ORIGEM para DESTINO, é o mesmo que:
 1-Mover n-1 discos de ORIGEM para AUXILIAR, usando DESTINO como auxiliar
 2-Mover disco n de ORIGEM para DESTINO
