@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Exercício Programa I – MAC 122 – PDA
-# Guilherme Augusto Martins
-# NUSP: 7199162
 
 #Função que devolve o máximo divisor comum entre dois números
 def mdc(x,y):  
