@@ -1,4 +1,4 @@
-As it states in MAC 0122 the course purpouse is:
+The main objectives of this course is:
 
 "Study, through examples, the concepts of correctness, performance, and design of algorithms and of their basic data structures."
 
